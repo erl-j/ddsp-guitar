@@ -1,6 +1,8 @@
 # DDSP Guitar
 
-This repository contains demo code for [*DDSP-based Neural Waveform Synthesis of Polyphonic Guitar Performance from String-wise MIDI Input*](https://arxiv.org/abs/2309.07658)
+This repository contains demo code for [*DDSP-based Neural Waveform Synthesis of Polyphonic Guitar Performance from String-wise MIDI Input*](https://arxiv.org/abs/2309.07658).
+
+Audio examples here: https://erl-j.github.io/neural-guitar-web-supplement/.
 
 ## Setup
 
@@ -12,7 +14,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-For rendering a midi file, run:
+For rendering a midi file with the *unified* model, run:
 
 ```bash
 python render_midi.py --midi_path midi.mid --output_path out.wav --crop-seconds 10 --device cuda:0
