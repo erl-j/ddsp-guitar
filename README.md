@@ -1,6 +1,6 @@
 # DDSP Guitar
 
-This repository contains demo code for [*DDSP-based Neural Waveform Synthesis of Polyphonic Guitar Performance from String-wise MIDI Input*](https://arxiv.org/abs/2309.07658. The project was conducted together Xin Wang, Erica Cooper, Lauri Juvela, Bob L. T. Sturm and Junichi Yamagishi.
+This repository contains demo code for [*DDSP-based Neural Waveform Synthesis of Polyphonic Guitar Performance from String-wise MIDI Input*](https://arxiv.org/abs/2309.07658). The project was conducted together Xin Wang, Erica Cooper, Lauri Juvela, Bob L. T. Sturm and Junichi Yamagishi.
 
 Audio examples here: https://erl-j.github.io/neural-guitar-web-supplement/.
 
