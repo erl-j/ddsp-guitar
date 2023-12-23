@@ -1,0 +1,15 @@
+joblib
+pretty_midi==0.2.9
+wandb==0.12.9
+protobuf==3.19.3
+jams
+matplotlib
+librosa
+penn
+einops
+pytorch_lightning
+torchcrepe
+julius
+jupyter
+einops
+soundfile
