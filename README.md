@@ -5,8 +5,8 @@ This repository contains demo code for [*DDSP-based Neural Waveform Synthesis of
 ## Setup
 
 ```
-git clone ...
-cd neural-guitar
+git clone https://github.com/erl-j/ddsp-guitar.git
+cd ddsp-guitar
 pip install -r requirements.txt
 ```
 
